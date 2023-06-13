@@ -14,7 +14,7 @@ import { GlobalContext } from "../../../Context/GlobalState";
 
 const Search = ({ navigation }) => {
     const api = {
-        key: 'd71f609a686f5b1e90f8523ea76a61eb',
+        key: '00',
     };
 
     const { sehir, setSehir, sehirBilgi, setSehirBilgi } = useContext(GlobalContext)
