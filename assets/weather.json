@@ -1,0 +1,54 @@
+{
+    "coord":
+        {
+            "lon":29.0833,
+            "lat":40.1667
+            
+        },
+    "weather":[
+        {
+            "id":800,
+            "main":"Clear",
+            "description":"clearsky",
+            "icon":"01d"
+            
+        }],
+    "base":"stations",
+    "main":
+        {
+            "temp":298.17,
+            "feels_like":297.95,
+            "temp_min":298.17,
+            "temp_max":298.17,
+            "pressure":1008,
+            "humidity":47,
+            "sea_level":1008,
+            "grnd_level":948
+            
+        },
+    "visibility":10000,
+    "wind":
+        {
+            "speed":3.03,
+            "deg":325,
+            "gust":3.05
+            
+        },
+    "clouds":{"all":0},
+    "dt":1660573655,
+    "sys":
+        {
+            "type":1,
+            "id":6982,
+            "country":"TR",
+            "sunrise":1660533288,
+            "sunset":1660582911
+            
+        },
+        
+    "timezone":10800,
+    "id":750268,
+    "name":"Bursa",
+    "cod":200
+    
+}
